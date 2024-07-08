@@ -1,0 +1,2 @@
+SchemaName,TableName,Inserts,Deletes,Updates,Ddls,AppliedInserts,AppliedDeletes,AppliedUpdates,AppliedDdls,FullLoadRows,FullLoadCondtnlChkFailedRows,FullLoadErrorRows,FullLoadReloaded,TableState,ScheduledForReload,ValidationPendingRecords,ValidationFailedRecords,ValidationSuspendedRecords,ValidationState
+TAXI,TRIPS,0,0,0,0,0,0,0,0,100000,0,0,false,Full load,false,0,0,0,Not enabled
